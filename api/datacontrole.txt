@@ -1,0 +1,12 @@
+form=>Array
+(
+    [login] => maria.figueiredo
+    [senha] => AnnaLubia@2021
+)
+<==form1=>Array
+(
+    [z01_numcgm] => 31537
+    [z01_nome] => MARIA LUCIA BRAGA DE FIGUEIREDO
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIxOTIuMTY4LjIyLjEzIiwiYXVkIjoiMTkyLjE2OC4yMi4xMyIsImV4cCI6MTcwOTIyODA2MywibnVtY2dtIjozMTUzNywibm9tZSI6Ik1BUklBIExVQ0lBIEJSQUdBIERFIEZJR1VFSVJFRE8ifQ==.u9kn+6aI/jcUuEeKH6y1aXqMk05h0tNi+ljo8cJg+yA=
+)
+<==

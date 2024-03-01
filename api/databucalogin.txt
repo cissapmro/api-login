@@ -1,0 +1,13 @@
+form=>Array
+(
+    [logado] => 1
+    [cpf] => 80113923791
+    [usuario] => Maria Lucia B de Figueiredo
+)
+<==SQL=>SELECT z01_numcgm,z01_nome FROM protocolo.cgm   WHERE  z01_cgccpf='80113923791' limit 1<==dados usu=>))Array
+(
+    [z01_numcgm] => 31537
+    [z01_nome] => MARIA LUCIA BRAGA DE FIGUEIREDO
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIxOTIuMTY4LjIyLjEzIiwiYXVkIjoiMTkyLjE2OC4yMi4xMyIsImV4cCI6MTcwOTIyODA2MywibnVtY2dtIjozMTUzNywibm9tZSI6Ik1BUklBIExVQ0lBIEJSQUdBIERFIEZJR1VFSVJFRE8ifQ==.u9kn+6aI/jcUuEeKH6y1aXqMk05h0tNi+ljo8cJg+yA=
+)
+((<==
